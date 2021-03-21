@@ -8,7 +8,7 @@ volumeBindingMode: Immediate
 parameters:
   resturl: "http://192.168.1.189:8080"
   restuser: "admin"
-  clusterid: "4da6e2bd6c6de92d20f93270776570c3"
+  clusterid: "d6da9fc41fb4897bf2d10cd4d71c1fa5"
   secretNamespace: "default"
   secretName: "heketi-secret"
   volumeType: "none"
